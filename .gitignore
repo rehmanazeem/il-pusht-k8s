@@ -1,0 +1,8 @@
+mlruns/
+outputs/
+*.pt
+__pycache__/
+*.egg-info/
+.venv/
+.env
+.DS_Store
